@@ -1,6 +1,9 @@
+<p align="center">
+  <h1 align="center">🏛️ Vrunalp199 </h1>
+  <img src="banner/banner.png" width="100%">
+</p>
 <div align="center">
 
-# 🏛️ Vrunal
 
 ### ⚡ Disciple of Athena • Cyber Security Researcher
 ### 🔥 Forge of Hephaestus • Embedded Systems Developer
@@ -156,12 +159,6 @@ Focus:
 ### Featured Projects
 
 🛡️ Raspberry Pi-Based Cyber Security Testing & Analysis Tool
-
-🎮 Dota 2 Game Stats Analyzer & Recommendation System
-
-🏢 Apartment Society Management System
-
-🍓 Custom Raspberry Pi Cybersecurity Operating System
 
 📡 Wireless Packet Monitoring & Analysis Toolkit
 
