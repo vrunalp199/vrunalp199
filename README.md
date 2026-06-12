@@ -30,10 +30,7 @@ Focus:
   - Wireless Security
   - RFID & NFC Technologies
 
-Mission:
-  To build intelligent and secure systems
-  inspired by the wisdom of Athena and
-  the craftsmanship of Hephaestus.
+
 ```
 
 ---
@@ -123,12 +120,12 @@ Mission:
 |----------|----------|
 | Cyber Security | ⭐⭐⭐⭐⭐ |
 | Linux Administration | ⭐⭐⭐⭐⭐ |
-| Raspberry Pi Development | ⭐⭐⭐⭐⭐ |
-| Embedded Systems | ⭐⭐⭐⭐⭐ |
+| Raspberry Pi Development | ⭐⭐⭐⭐ |
+| Embedded Systems | ⭐⭐⭐⭐ |
 | Networking | ⭐⭐⭐⭐⭐ |
-| Wireless Security | ⭐⭐⭐⭐ |
-| Artificial Intelligence | ⭐⭐⭐⭐ |
-| Python Development | ⭐⭐⭐⭐⭐ |
+| Wireless Security | ⭐⭐⭐⭐⭐ |
+| Artificial Intelligence | ⭐⭐⭐ |
+| Python Development | ⭐⭐⭐⭐ |
 
 ---
 
