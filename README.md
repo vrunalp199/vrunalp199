@@ -49,7 +49,6 @@ Focus:
 ### Vulnerability Assessment
 
 ![Nessus](https://img.shields.io/badge/Nessus-Vulnerability_Scanning-darkgreen?style=for-the-badge)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-Assessment-green?style=for-the-badge)
 
 ### Network Analysis
 
@@ -59,16 +58,11 @@ Focus:
 ### Wireless Security
 
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-Wireless-red?style=for-the-badge)
-![Kismet](https://img.shields.io/badge/Kismet-Monitoring-darkred?style=for-the-badge)
 
 ### Packet Crafting
 
 ![Scapy](https://img.shields.io/badge/Scapy-Packet_Crafting-yellow?style=for-the-badge)
 
-### Digital Forensics
-
-![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-darkblue?style=for-the-badge)
-![Volatility](https://img.shields.io/badge/Volatility-Memory_Forensics-black?style=for-the-badge)
 
 ### Linux Security
 
@@ -124,10 +118,9 @@ Focus:
 | Cyber Security | ⭐⭐⭐⭐⭐ |
 | Linux Administration | ⭐⭐⭐⭐⭐ |
 | Raspberry Pi Development | ⭐⭐⭐⭐ |
-| Embedded Systems | ⭐⭐⭐⭐ |
-| Networking | ⭐⭐⭐⭐⭐ |
+| Networking | ⭐⭐⭐⭐ |
 | Wireless Security | ⭐⭐⭐⭐⭐ |
-| Artificial Intelligence | ⭐⭐⭐ |
+| Artificial Intelligence | ⭐⭐⭐⭐⭐|
 | Python Development | ⭐⭐⭐⭐ |
 
 ---
