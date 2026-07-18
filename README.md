@@ -25,14 +25,12 @@
 Name: Vrunal
 Role: Cyber Security Researcher
 Focus:
-  - Embedded Systems
   - Raspberry Pi Development
   - Artificial Intelligence
   - Linux Administration
   - Network Security
   - Wireless Security
-  - RFID & NFC Technologies
-
+  
 
 ```
 
@@ -71,14 +69,6 @@ Focus:
 
 ---
 
-# 🔥 Forge of Hephaestus
-
-### Single Board Computers
-
-![Raspberry Pi 5](https://img.shields.io/badge/Raspberry_Pi_5-red?style=for-the-badge)
-![Raspberry Pi CM4](https://img.shields.io/badge/Raspberry_Pi_CM4-darkred?style=for-the-badge)
-![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry_Pi_Pico-red?style=for-the-badge)
-
 ### Microcontrollers
 
 ![ESP32](https://img.shields.io/badge/ESP32-blue?style=for-the-badge)
@@ -88,15 +78,12 @@ Focus:
 ### Hardware Technologies
 
 - RFID
-- NFC
 - SPI
 - I2C
 - UART
 - GPIO
-- HDMI Touch Displays
 - PoE Systems
 - Embedded Linux
-- Battery Management Systems
 - Wireless Monitoring Systems
 
 ---
@@ -105,37 +92,10 @@ Focus:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,git,github,docker,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,github,docker,vscode"/>
 
 </p>
 
----
-
-# 📜 Knowledge Domains
-
-| Domain | Experience |
-|----------|----------|
-| Cyber Security | ⭐⭐⭐⭐⭐ |
-| Linux Administration | ⭐⭐⭐⭐⭐ |
-| Raspberry Pi Development | ⭐⭐⭐⭐ |
-| Networking | ⭐⭐⭐⭐ |
-| Wireless Security | ⭐⭐⭐⭐⭐ |
-| Artificial Intelligence | ⭐⭐⭐⭐⭐|
-| Python Development | ⭐⭐⭐⭐ |
-
----
-
-# 📊 Scrolls of Olympus
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vrunalp199&show_icons=true&theme=vision-friendly-dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrunalp199&layout=compact&theme=vision-friendly-dark"/>
-
-</p>
-
----
 
 # ⚡ Streak of Hermes
 
