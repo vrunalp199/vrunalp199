@@ -97,25 +97,7 @@ Focus:
 <img src="https://skillicons.dev/icons?i=python,bash,linux,github,docker,vscode"/>
 </p>
 
-# ⚡ Streak of Hermes
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vrunalp199&theme=highcontrast&border_radius=10&fire=00FF41&currStreakLabel=00FF41"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vrunalp199&show_icons=true&theme=highcontrast&border_color=00FF41&icon_color=00FF41&title_color=00FF41&border_radius=10"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vrunalp199&theme=react-dark&hide_border=true&color=00FF41&line=00FF41&point=FFFFFF"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:0B0B0B&height=3&width=100%" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:0B0B0B&height=3&width=100%" width="100%"/>
-
-# 🐍 The Serpent of Chronos
+#  The Serpent of Chronos
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/vrunalp199/vrunalp199/output/github-contribution-grid-snake-dark.svg" width="100%"/>
