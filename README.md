@@ -120,13 +120,6 @@ Focus:
 <p align="center">
 <img src="https://raw.githubusercontent.com/vrunalp199/vrunalp199/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
-
-> This snake animates itself by "eating" your contribution graph, updating automatically via GitHub Actions.
-> **It's currently a broken image because the workflow hasn't run yet** — one-time setup below:
-> 1. In your `vrunalp199/vrunalp199` repo, go to **Add file → Create new file**, name it `.github/workflows/snake.yml`, and paste in the workflow I generated (attached below).
-> 2. Commit it to `main`. GitHub Actions will run automatically and push the generated SVG to a new `output` branch.
-> 3. Once that first run completes (check the **Actions** tab), the snake image above will render and update every 6 hours on its own.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0B,100:00FF41&height=3&width=100%" width="100%"/>
 
 # 🏺 Artifacts of Olympus
