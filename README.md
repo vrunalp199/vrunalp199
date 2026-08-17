@@ -97,13 +97,6 @@ Focus:
 <img src="https://skillicons.dev/icons?i=python,bash,linux,github,docker,vscode"/>
 </p>
 
-#  The Serpent of Chronos
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/vrunalp199/vrunalp199/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0B,100:00FF41&height=3&width=100%" width="100%"/>
-
 # 🏺 Artifacts of Olympus
 
 ### Featured Projects
