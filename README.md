@@ -26,7 +26,17 @@ Disclosure > Exploitation.
 ```
 
 <br>
+# 🤝 Connect
 
+<p align="center">
+<a href="https://github.com/vrunalp199">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/vrunal-patil-206b47430/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+</p>
 # 🏛️ Temple Records
 
 ```yaml
